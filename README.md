@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Jon Negron 👋
 
 Aspiring **IT Support / System Administrator** transitioning into the tech industry from a leadership role at the **United States Postal Service**.
 
