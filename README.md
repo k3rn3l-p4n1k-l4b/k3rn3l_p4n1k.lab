@@ -32,6 +32,7 @@ Practicing DNS, DHCP, static IP configuration, subnetting, and network troublesh
 ![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-EE0000?style=for-the-badge&logo=proxmox&logoColor=white)
 
 Tools & Platforms
 
@@ -40,6 +41,7 @@ Tools & Platforms
 * PowerShell
 * Bash
 * SSH
+* Proxmox
 
 Networking
 
