@@ -1,6 +1,6 @@
 # Hi, I'm Jon Negron 👋
 
-Aspiring **IT Support / System Administrator** transitioning into the tech industry from a leadership role at the **United States Postal Service**.
+Aspiring **IT Support / System Administrator** transitioning into the tech industry from a leadership role within Operations Management at my current company.
 
 I am building hands-on experience through **homelabs and practical IT projects** focused on system administration, networking, and troubleshooting.
 
