@@ -1,4 +1,4 @@
-# Hi, I'm Jon Negron 👋
+# Hi, I'm Jon.👋
 
 Aspiring **IT Support / System Administrator** transitioning into the tech industry from a leadership role within Operations Management at my current company.
 
@@ -98,7 +98,7 @@ My lab environment simulates a small enterprise network using virtualization.
 
 ## 💼 Background
 
-Before transitioning into IT, I worked as a **Supervisor at the United States Postal Service**, where I developed strong leadership, operations management, and troubleshooting skills.
+Before transitioning into IT, I worked as an Operations manager for a well known company, where I developed strong leadership, operations management, and troubleshooting skills.
 
 I am now applying those skills toward **IT support and systems administration** while building hands-on experience through homelabs and technical projects.
 
@@ -106,9 +106,9 @@ I am now applying those skills toward **IT support and systems administration** 
 
 ## 📫 Connect With Me
 
-LinkedIn: [LinkedIn Profile Link]
+LinkedIn: https://www.linkedin.com/in/jntech234/
 
-Email: [Your Email]
+Email: JNtech234@pronton.me
 
 ---
 
