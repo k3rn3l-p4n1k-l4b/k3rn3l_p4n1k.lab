@@ -108,7 +108,7 @@ I am now applying those skills toward **IT support and systems administration** 
 
 LinkedIn: https://www.linkedin.com/in/jntech234/
 
-Email: JNtech234@pronton.me
+Email: JNtech234@proton.me
 
 ---
 
