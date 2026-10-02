@@ -51,18 +51,13 @@ Networking
 * Subnetting
 
 ---
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JNegron-Tech&show_icons=true&theme=transparent)
-
 ## 🧪 Homelab Environment
 
 My lab environment simulates a small enterprise network using virtualization.
 
 **Infrastructure**
 
-* Windows Server 2019 Domain Controller
+* Windows Server 2025 Domain Controller
 * Windows 10 Client Machine
 * Ubuntu Linux Server
 * VirtualBox Internal Network
@@ -90,7 +85,9 @@ My lab environment simulates a small enterprise network using virtualization.
 
 ## 🎯 Certifications (Planned / In Progress)
 
-* CompTIA A+
+| Google I.T Specialist | ✅ Completed |
+| CompTIA Security+ | 🟨 In Progress |
+| HTB Certified Defensive Security Analyst | 🟨 In Progress |
 * CompTIA Network+
 * Linux+
 
