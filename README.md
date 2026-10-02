@@ -85,7 +85,7 @@ My lab environment simulates a small enterprise network using virtualization.
 
 ## 🎯 Certifications (Planned / In Progress)
 
-| Google I.T Specialist | ✅ Completed |
+| Google I.T Specialist | ✅ Completed 10/1/2026 |
 | CompTIA Security+ | 🟨 In Progress |
 | HTB Certified Defensive Security Analyst | 🟨 In Progress |
 * CompTIA Network+
