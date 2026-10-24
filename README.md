@@ -1,6 +1,6 @@
 # Hi, I'm Jon.👋
 
-Aspiring **IT Support / System Administrator** transitioning into the tech industry from a leadership role within Operations Management at my current company.
+**IT Support / System Administrator** transitioning into the tech industry from a leadership role within Operations Management at my current company.
 
 I am building hands-on experience through **homelabs and practical IT projects** focused on system administration, networking, and troubleshooting.
 
